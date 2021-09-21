@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is a test file form eclipse
+=======
+this is a test file from git hub
+>>>>>>> branch 'master' of https://github.com/prashanth624/GitBranchingMergingEclipse.git
